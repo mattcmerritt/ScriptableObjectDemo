@@ -58,8 +58,6 @@ public class InventoryUI : MonoBehaviour
     // Helper function that will update the display with new item details
     private void UpdateItemDetails(SimpleItem item)
     {
-        Debug.Log(item);
-
         ItemName.text = item.Name;
         ItemDescription.text = item.Description;
         ItemImage.sprite = item.Icon;
