@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 72f8958f2e93a234289c16aa733ab2b3, type: 3}
-  m_Name: No Item
+  m_Name: Knife
   m_EditorClassIdentifier: 
-  Name: No Item
-  Icon: {fileID: 21300000, guid: 63aa4bd36ec07934da8232c126a71079, type: 3}
-  Description: Select an item to read about it.
+  Name: Knife
+  Icon: {fileID: 21300000, guid: 5726c8e466c765b438d3ba83eaafacee, type: 3}
+  Description: A small knife. Increases attack by 5.
